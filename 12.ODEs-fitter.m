@@ -1,4 +1,4 @@
-%% Script to solve equation 2 & equation 4 in manuscript, e1, e2, ed, k1 and k2 were estimated by randomly initalizing input of function 'solve' to find local optimazed estimations.
+%% Matlab-2021 Script to solve equation 2 & equation 4 in manuscript, e1, e2, ed, k1 and k2 were estimated by randomly initalizing input of function 'solve' to find local optimazed estimations.
 
 function [esol, e0best, ksol, k0best] = fit()
 %% ---------------------- for non-drug treated samples ------------------
